@@ -5,7 +5,7 @@ This repo is for troubleshooting purposes only.
 ### clone repository
 
 ```sh
-git clone git@github.com:rstoye/opencv-troubleshoot-2.git
+git clone https://github.com/rstoye/opencv-troubleshoot-2.git
 cd opencv-troubleshoot-2
 ```
 
